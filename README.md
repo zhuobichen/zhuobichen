@@ -1,7 +1,7 @@
 # Zhao Wen
 
-> **AI/LLM 工程师 · 多 Agent 系统与 MCP 工具 · 大气环境数据融合研究**
-> **AI/LLM Engineer · Multi-Agent Systems & MCP Tools · Atmospheric Data Fusion Research**
+> **Python · TypeScript · 多 Agent · MCP · 大气数据融合**
+> **Python · TypeScript · Multi-Agent · MCP · Atmospheric Data Fusion**
 
 ---
 
