@@ -75,8 +75,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuobichen&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" width="42%" />
 </p>
 
+## 🌌 Contribution in 3D
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zhuobichen/zhuobichen/output/github-snake.svg" alt="Contribution map" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution map" />
 </p>
 
 <p align="center">
