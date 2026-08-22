@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/moon-river.gif" alt="Moon drifting over mountains and a passing boat" width="100%" />
+  <img src="./assets/moon-river.gif" alt="Three friends drinking and watching the moon from a boat" width="100%" />
 </p>
 
 <p align="center">
