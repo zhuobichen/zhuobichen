@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/moon-poem.png" alt="Pixel-art moonlight over mountains and a river" width="100%" />
+  <img src="./assets/moon-poem-banner.png" alt="Pixel-art moonlight over mountains and a river" width="100%" />
 </p>
 
 <p align="center">
