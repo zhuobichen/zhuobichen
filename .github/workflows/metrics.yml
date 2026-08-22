@@ -1,42 +1,29 @@
-name: Generate Profile Metrics
+name: GitHub Profile 3D Contrib
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 18 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-
 permissions:
   contents: write
 
 jobs:
-  publish:
+  build:
     runs-on: ubuntu-latest
+    name: Generate 3D contribution profile
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: zhuobichen
-          outputs: |
-            generated/github-snake.svg
-            generated/github-snake-dark.svg?palette=github-dark
-
-      - name: Prepare output
+      - uses: actions/checkout@v5
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit generated profile
         run: |
-          rm -rf dist
-          mkdir -p dist
-          cp generated/github-snake.svg dist/github-snake.svg
-          cp generated/github-snake-dark.svg dist/github-snake-dark.svg
-
-      - name: Publish output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
-          force_orphan: true
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A profile-3d-contrib
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "generated 3D contribution profile"
+          git push
