@@ -1,48 +1,95 @@
 # Zhao Wen
 
-> **Python · TypeScript · 多 Agent · MCP · 大气数据融合**
-> **Python · TypeScript · Multi-Agent · MCP · Atmospheric Data Fusion**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Building+Local-First+AI+Tools;Multi-Agent+Orchestration+%C2%B7+MCP;Atmospheric+Data+Fusion+%C2%B7+WRF-CMAQ;Research%2C+Code%2C+and+Useful+Things" alt="Typing introduction" />
+</p>
+
+<p align="center">
+  <strong>今人不见古时月，今月曾经照古人</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zhuobichen"><img src="https://img.shields.io/github/followers/zhuobichen?label=Followers&style=flat-square&color=58A6FF" alt="GitHub followers" /></a>
+  <a href="https://github.com/zhuobichen?tab=repositories"><img src="https://img.shields.io/github/stars/zhuobichen?affiliations=OWNER&style=flat-square&color=F2CC60" alt="GitHub stars" /></a>
+  <a href="https://github.com/zhuobichen"><img src="https://komarev.com/ghpvc/?username=zhuobichen&style=flat-square&color=6E7781&label=Profile+Views" alt="Profile views" /></a>
+</p>
 
 ---
 
-## 👋 关于我 / About Me
+## 👋 About Me
 
-你好，我是 Zhao Wen。我的工作横跨两条主线：
+你好，我是 Zhao Wen，一名把 AI 工程与大气环境科研连接起来的开发者 / 研究者。
 
-- **AI / LLM 工程**：多 Agent 系统编排、MCP（Model Context Protocol）工具、本地优先的 AI 应用与个人效率工具。
-- **大气环境科研**：空气质量监测—模型数据融合（VNA / eVNA / aVNA / Downscaler）、WRF-CMAQ 模拟、源解析与健康效益评估。
+- 🔭 正在构建 **本地优先的 AI 工具、多 Agent 系统与 MCP 服务**
+- 🌫️ 长期研究 **空气质量监测-模型数据融合、WRF-CMAQ 与健康效益评估**
+- 🧭 喜欢把复杂流程做成 **可复用、可验证、可自动化** 的工具
+- 📍 Guangdong, China
 
-Hello! I'm Zhao Wen. My work spans two main tracks:
+> I build practical systems at the intersection of **AI engineering** and **atmospheric science**.
 
-- **AI / LLM Engineering**: multi-agent orchestration, MCP (Model Context Protocol) tools, local-first AI applications, and personal productivity tools.
-- **Atmospheric Science Research**: air-quality monitoring–model data fusion (VNA / eVNA / aVNA / Downscaler), WRF-CMAQ simulation, source apportionment, and health-impact assessment.
+## 🛠️ Tech Stack
 
-## 🛠️ 技术栈 / Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/LLM-111827?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/Multi--Agent-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="Multi-Agent" />
+  <img src="https://img.shields.io/badge/MCP-0F766E?style=for-the-badge&logo=protocols.io&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/WRF--CMAQ-2563EB?style=for-the-badge&logo=googleearth&logoColor=white" alt="WRF-CMAQ" />
+  <img src="https://img.shields.io/badge/Data_Fusion-DC2626?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Fusion" />
+</p>
 
-`Python` · `TypeScript` · `JavaScript` · `FastAPI` · `Node.js` · `LLM` · `Multi-Agent` · `MCP` · `WRF-CMAQ` · `数据融合 / Data Fusion`
+## ⭐ Featured Work
 
-## ⭐ 精选项目 / Featured Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI / LLM Engineering</h3>
+      <a href="https://github.com/zhuobichen/weflow-cli"><strong>weflow-cli</strong></a><br />
+      本地优先的微信数据工具，支持聊天记录、公众号日报、个人知识库与 MCP。
+      <br /><br />
+      <a href="https://github.com/zhuobichen/dsh-team"><strong>dsh-team</strong></a><br />
+      多 Agent 团队编排框架，支持顺序接力与 DAG 图编排。
+      <br /><br />
+      <a href="https://github.com/zhuobichen/pilgrim-intel"><strong>pilgrim-intel</strong></a><br />
+      统一 AI 情报聚合系统，让多信源信息变得可查询、可追踪。
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌫️ Atmospheric Science</h3>
+      <a href="https://github.com/zhuobichen/PM25-Fusion-AutoResearch"><strong>PM25-Fusion-AutoResearch</strong></a><br />
+      PM2.5 监测-模型数据融合自动研究框架。
+      <br /><br />
+      <a href="https://github.com/zhuobichen/DataFusion_China_CleanAir"><strong>DataFusion_China_CleanAir</strong></a><br />
+      中国区域空气质量数据融合与健康效益评估。
+      <br /><br />
+      <a href="https://github.com/zhuobichen/FusionMethods"><strong>FusionMethods</strong></a><br />
+      VNA / eVNA / aVNA / Downscaler 等方法复现与验证。
+    </td>
+  </tr>
+</table>
 
-### AI / LLM 工程 · AI / LLM Engineering
+## 📊 GitHub Activity
 
-| 项目 / Project | 说明 / Description |
-|---|---|
-| [weflow-cli](https://github.com/zhuobichen/weflow-cli) | 本地优先的微信数据工具：聊天记录查询导出、公众号日报与个人知识库（MCP 兼容） |
-| [MathModeling-Agent](https://github.com/zhuobichen/MathModeling-Agent) | 数学建模竞赛全流程自动化系统（多 Agent 流水线） |
-| [dsh-team](https://github.com/zhuobichen/dsh-team) | 多 Agent 团队编排框架：顺序接力 + DAG 图编排 |
-| [digital-humanities-narrative](https://github.com/zhuobichen/digital-humanities-narrative) | 数字人文叙事 AI 分析引擎：人物关系网络与叙事生成 |
-| [pilgrim-intel](https://github.com/zhuobichen/pilgrim-intel) | 统一 AI 情报聚合系统：多信源抓取、AI 摘要与 MCP 可查询 |
-| [lingtai-reader](https://github.com/zhuobichen/lingtai-reader) | 纯本地电子书阅读器：书架、阅读、笔记与 AI 助手 |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhuobichen&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Zhao Wen's GitHub stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhuobichen&theme=transparent&hide_border=true" alt="Zhao Wen's GitHub streak" width="49%" />
+</p>
 
-### 大气环境科研 · Atmospheric Science Research
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuobichen&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" width="42%" />
+</p>
 
-| 项目 / Project | 说明 / Description |
-|---|---|
-| [PM25-Fusion-AutoResearch](https://github.com/zhuobichen/PM25-Fusion-AutoResearch) | PM2.5 监测-模型数据融合自动研究框架（VNA / eVNA / aVNA / Downscaler） |
-| [DataFusion_China_CleanAir](https://github.com/zhuobichen/DataFusion_China_CleanAir) | 中国区域空气质量数据融合：多源融合、交叉验证与健康效益评估 |
-| [FusionMethods](https://github.com/zhuobichen/FusionMethods) | 监测-模拟数据融合方法复现代码包（20+ 方法） |
-| [guangdong-wrf-cmaq](https://github.com/zhuobichen/guangdong-wrf-cmaq) | 广东省 WRF-CMAQ 空气质量多尺度模拟与评估 |
+## 🐍 Contribution Trail
 
-## 📫 联系 / Contact
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zhuobichen/zhuobichen/output/github-snake.svg" alt="Contribution snake" />
+</p>
 
-- GitHub: [@zhuobichen](https://github.com/zhuobichen)
+<p align="center">
+  <sub>Build quietly. Explore deeply. Leave useful traces.</sub>
+</p>
