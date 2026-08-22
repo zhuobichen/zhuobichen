@@ -5,11 +5,9 @@
 </p>
 
 <p align="center">
-  <em>今人不见古时月，今月曾经照古人。</em><br />
-  <sub>李白《把酒问月》</sub>
-  <br /><br />
-  <em>夫天地者，万物之逆旅也；光阴者，百代之过客也。</em><br />
-  <sub>李白《春夜宴从弟桃花园序》</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=24&duration=1&pause=100000&color=B08D57&center=true&vCenter=true&width=900&lines=%E4%BB%8A%E4%BA%BA%E4%B8%8D%E8%A7%81%E5%8F%A4%E6%97%B6%E6%9C%88%EF%BC%8C%E4%BB%8A%E6%9C%88%E6%9B%BE%E7%BB%8F%E7%85%A7%E5%8F%A4%E4%BA%BA%E3%80%82;%E5%A4%AB%E5%A4%A9%E5%9C%B0%E8%80%85%EF%BC%8C%E4%B8%87%E7%89%A9%E4%B9%8B%E9%80%86%E6%97%85%E4%B9%9F%EF%BC%9B%E5%85%89%E9%98%B4%E8%80%85%EF%BC%8C%E7%99%BE%E4%BB%A3%E4%B9%8B%E8%BF%87%E5%AE%A2%E4%B9%9F%E3%80%82" alt="李白诗句" />
+  <br />
+  <sub>李白《把酒问月》 · 《春夜宴从弟桃花园序》</sub>
 </p>
 
 <p align="center">
@@ -22,7 +20,7 @@
 
 ## 👋 About Me
 
-你好，我是 Zhao Wen，主要在 AI 工程与大气环境科研之间工作，也喜欢古诗和文学。
+你好，我是 Zhao Wen，主要在 AI 工程与大气环境科研之间工作，也喜欢文学、游戏、骑行、跑步和到处闲逛。
 
 - 🔭 正在构建 **本地优先的 AI 工具、多 Agent 系统与 MCP 服务**
 - 🌫️ 长期研究 **空气质量监测-模型数据融合、WRF-CMAQ 与健康效益评估**
