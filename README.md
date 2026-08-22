@@ -64,15 +64,14 @@
 | [FusionMethods](https://github.com/zhuobichen/FusionMethods) | VNA / eVNA / aVNA / Downscaler 等方法复现与验证。 |
 | [guangdong-wrf-cmaq](https://github.com/zhuobichen/guangdong-wrf-cmaq) | 广东省 WRF-CMAQ 空气质量多尺度模拟与评估。 |
 
-## 📊 GitHub Activity
+## 🧭 Code Observatory
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhuobichen&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Zhao Wen's GitHub stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhuobichen&theme=transparent&hide_border=true" alt="Zhao Wen's GitHub streak" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhuobichen&theme=github_dark" alt="GitHub profile summary" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuobichen&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" width="42%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhuobichen&bg_color=0d1117&color=8b949e&line=b08d57&point=f0c674&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
 </p>
 
 ## 🌌 Contribution in 3D
