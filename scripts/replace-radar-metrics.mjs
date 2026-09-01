@@ -29,20 +29,11 @@ function metricValue(label) {
 
 const metrics = {
   Commit: metricValue('Commit'),
-  Repo: metricValue('Repo'),
-  PullReq: metricValue('PullReq'),
-  Issue: metricValue('Issue'),
-  Review: metricValue('Review'),
 };
 
 const replacement = `<g transform="translate(980, 284.5)">
   <text x="-150" y="-145" class="fill-fg" style="font-size: 18px; font-weight: bold;">Contribution metrics</text>
-  <text x="-150" y="-122" class="fill-weak" style="font-size: 12px;">Separate scales by category</text>
-  <g transform="translate(-150 -92)"><text class="fill-fg" style="font-size: 14px;">Commit</text><rect x="62" y="-11" width="188" height="14" rx="3" class="stroke-weak" fill="none"/><rect x="62" y="-11" width="18" height="14" rx="3" class="fill-strong"/><text x="260" y="1" class="fill-fg" style="font-size: 14px;">${metrics.Commit}</text></g>
-  <g transform="translate(-150 -49)"><text class="fill-fg" style="font-size: 14px;">Repo</text><rect x="62" y="-11" width="188" height="14" rx="3" class="stroke-weak" fill="none"/><rect x="62" y="-11" width="18" height="14" rx="3" class="fill-strong"/><text x="260" y="1" class="fill-fg" style="font-size: 14px;">${metrics.Repo}</text></g>
-  <g transform="translate(-150 -6)"><text class="fill-fg" style="font-size: 14px;">PullReq</text><rect x="62" y="-11" width="188" height="14" rx="3" class="stroke-weak" fill="none"/><rect x="62" y="-11" width="18" height="14" rx="3" class="fill-strong"/><text x="260" y="1" class="fill-fg" style="font-size: 14px;">${metrics.PullReq}</text></g>
-  <g transform="translate(-150 37)"><text class="fill-fg" style="font-size: 14px;">Issue</text><rect x="62" y="-11" width="188" height="14" rx="3" class="stroke-weak" fill="none"/><text x="260" y="1" class="fill-fg" style="font-size: 14px;">${metrics.Issue}</text></g>
-  <g transform="translate(-150 80)"><text class="fill-fg" style="font-size: 14px;">Review</text><rect x="62" y="-11" width="188" height="14" rx="3" class="stroke-weak" fill="none"/><text x="260" y="1" class="fill-fg" style="font-size: 14px;">${metrics.Review}</text></g>
+  <g transform="translate(-150 -102)"><text class="fill-fg" style="font-size: 14px;">Commit</text><rect x="62" y="-11" width="188" height="14" rx="3" class="stroke-weak" fill="none"/><rect x="62" y="-11" width="18" height="14" rx="3" class="fill-strong"/><text x="260" y="1" class="fill-fg" style="font-size: 14px;">${metrics.Commit}</text></g>
 </g>`;
 
 writeFileSync(file, source.slice(0, start) + replacement + source.slice(end), 'utf8');
