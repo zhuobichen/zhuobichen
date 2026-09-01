@@ -17,6 +17,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Replace radar chart with separate metrics
+        run: node scripts/replace-radar-metrics.mjs
       - name: Commit generated profile
         run: |
           git config user.name github-actions
