@@ -41,8 +41,7 @@
 
 ## 🔗 Social accounts
 
-- 📧 Email: [1473517806@qq.com](mailto:1473517806@qq.com)
-- 💬 WeChat: `sineo666`
+- 📧 Email: [zhaowen@agent.qq.com](mailto:zhaowen@agent.qq.com)
 
 ## 🛠️ Tech Stack
 
@@ -90,7 +89,7 @@
 ## 🌌 Contribution in 3D
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution map" />
+  <img src="./profile-3d-contrib/profile-contribution-metrics.svg" alt="Contribution metrics shown separately by category" />
 </p>
 
 <p align="center">
