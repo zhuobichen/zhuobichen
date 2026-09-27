@@ -10,14 +10,8 @@
 
 <p align="center">
   <img height="42" src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=24&duration=1&pause=100000&color=B08D57&center=true&vCenter=true&width=900&lines=%E4%BB%8A%E4%BA%BA%E4%B8%8D%E8%A7%81%E5%8F%A4%E6%97%B6%E6%9C%88%EF%BC%8C%E4%BB%8A%E6%9C%88%E6%9B%BE%E7%BB%8F%E7%85%A7%E5%8F%A4%E4%BA%BA%E3%80%82&repeat=false" alt="李白诗句一" />
-  <br /><br />
-  <img height="42" src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=30&duration=1&pause=100000&color=8B7355&center=true&vCenter=true&width=1050&lines=%E5%A4%AB%E5%A4%A9%E5%9C%B0%E8%80%85%EF%BC%8C%E4%B8%87%E7%89%A9%E4%B9%8B%E9%80%86%E6%97%85%E4%B9%9F%EF%BC%9B%E5%85%89%E9%98%B4%E8%80%85%EF%BC%8C%E7%99%BE%E4%BB%A3%E4%B9%8B%E8%BF%87%E5%AE%A2%E4%B9%9F%E3%80%82&repeat=false" alt="李白诗句二" />
-  <br /><br />
-  <img height="42" src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=30&duration=1&pause=100000&color=8B7355&center=true&vCenter=true&width=1050&lines=%E5%94%AF%E8%A7%81%E6%9C%88%E5%AF%92%E6%97%A5%E6%9A%96%EF%BC%8C%E6%9D%A5%E7%85%8E%E4%BA%BA%E5%AF%BF&repeat=false" alt="Li He poem" />
-  <br /><br />
-  <img height="42" src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=30&duration=1&pause=100000&color=8B7355&center=true&vCenter=true&width=1050&lines=%E9%A3%8E%E6%AA%90%E5%B1%95%E4%B9%A6%E8%AF%BB%EF%BC%8C%E5%8F%A4%E9%81%93%E7%85%A7%E9%A2%9C%E8%89%B2&repeat=false" alt="文天祥诗句" />
   <br />
-  <sub>李白《把酒问月》 · 《春夜宴从弟桃花园序》 · 李贺《苦昼短》 · 文天祥《正气歌》</sub>
+  <sub>李白《把酒问月》</sub>
 </p>
 
 <p align="center">
