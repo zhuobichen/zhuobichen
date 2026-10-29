@@ -80,12 +80,6 @@
 | [PM25-Fusion-AutoResearch](https://github.com/zhuobichen/PM25-Fusion-AutoResearch) | PM2.5 监测-模型数据融合自动研究框架（VNA / eVNA / aVNA / Downscaler 复现与验证）。 |
 | [guangdong-wrf-cmaq](https://github.com/zhuobichen/guangdong-wrf-cmaq) | 广东省 WRF-CMAQ 空气质量多尺度模拟与评估。 |
 
-> 私有主库：**integrated-air-quality-lab**（LIAE 实验室主代码库：WRF/CMAQ、DeepRSM、数据融合、CO2 反演，另收编 5 个存档项目）· **ABaCAS** · **DataFusion_EPAproject** · **hcyx** · **Agent_Paper**（论文工作台）
-
-### 私有项目线（仅列名，不设链接）
-
-**lingtai-reader**（纯本地电子书阅读器 + 内置藏书库）· **ZhaoWen_KnowledgeBase**（个人知识库）· **AndroidApps**（MapMate 骑行导航助手）· **ZhaoWenGitHubDiary**（账号级仓库变更留痕账本）
-
 ## 🧭 Code Observatory
 
 <p align="center">
