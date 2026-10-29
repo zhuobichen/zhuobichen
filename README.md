@@ -18,13 +18,8 @@
   <a href="https://github.com/zhuobichen"><img src="https://img.shields.io/github/followers/zhuobichen?label=followers&style=flat-square&color=64748B" alt="GitHub followers" /></a>
   <a href="https://github.com/zhuobichen?tab=repositories"><img src="https://img.shields.io/github/stars/zhuobichen?affiliations=OWNER&style=flat-square&color=B08D57" alt="GitHub stars" /></a>
   <a href="https://github.com/zhuobichen"><img src="https://komarev.com/ghpvc/?username=zhuobichen&style=flat-square&color=64748B&label=profile+views" alt="Profile views" /></a>
+  <a href="https://zhaowen.art"><img src="https://img.shields.io/badge/🌐_Homepage-zhaowen.art-0891B2?style=flat-square" alt="Personal homepage" /></a>
 </p>
-
-## 🌐 Homepage
-
-**[zhaowen.art](https://zhaowen.art)** — 朝闻的个人主页
-
----
 
 ## 👋 About Me
 
@@ -86,16 +81,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhuobichen&theme=github_dark" alt="GitHub profile summary" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhuobichen&bg_color=0d1117&color=8b949e&line=b08d57&point=f0c674&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
-</p>
-
-## 🌌 Contribution in 3D
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution map with separate contribution metrics" />
-</p>
-
-<p align="center">
-  <sub>Code, research, and a little moonlight.</sub>
-</p>
