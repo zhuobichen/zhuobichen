@@ -22,13 +22,7 @@
 
 ## 🌐 Homepage
 
-<p align="center">
-  <a href="https://zhaowen.art">
-    <img src="./assets/homepage-banner.webp" alt="zhaowen.art — 朝闻的个人主页" width="100%" />
-  </a>
-  <br />
-  <a href="https://zhaowen.art"><img src="https://img.shields.io/badge/ZHAOWEN.ART-%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-B08D57?style=for-the-badge&labelColor=111827" alt="zhaowen.art" /></a>
-</p>
+**[zhaowen.art](https://zhaowen.art)** — 朝闻的个人主页
 
 ---
 
