@@ -20,6 +20,16 @@
   <a href="https://github.com/zhuobichen"><img src="https://komarev.com/ghpvc/?username=zhuobichen&style=flat-square&color=64748B&label=profile+views" alt="Profile views" /></a>
 </p>
 
+## 🌐 Homepage
+
+<p align="center">
+  <a href="https://zhaowen.art">
+    <img src="./assets/homepage-banner.webp" alt="zhaowen.art — 朝闻的个人主页" width="100%" />
+  </a>
+  <br />
+  <a href="https://zhaowen.art"><img src="https://img.shields.io/badge/ZHAOWEN.ART-%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-B08D57?style=for-the-badge&labelColor=111827" alt="zhaowen.art" /></a>
+</p>
+
 ---
 
 ## 👋 About Me
@@ -35,6 +45,7 @@
 
 ## 🔗 Social accounts
 
+- 🌐 Homepage: [zhaowen.art](https://zhaowen.art)
 - 📧 Email: [1473517806@qq.com](mailto:1473517806@qq.com)
 
 ## 🛠️ Tech Stack
