@@ -51,24 +51,22 @@
 
 ## ⭐ Featured Projects
 
-### AI / LLM Engineering
+### 核心工具
 
 | Project | Description |
 | --- | --- |
 | [zhaowen-mcp](https://github.com/zhuobichen/zhaowen-mcp) | 个人 MCP 服务集合（15 个）：中文平台数据、会话检索、代码审阅、识图生图生视频、用量监测。 |
 | [zhaowen-dsh](https://github.com/zhuobichen/zhaowen-dsh) | DSH 工具集：多 Agent 团队编排插件、Claude Code 风格 TUI 与终端客户端。 |
-| [zhaowen-cli](https://github.com/zhuobichen/zhaowen-cli) | CLI 小工具集：OneNote 读取 / Windows 便签 / 智能体对话管理（原三库合并，历史完整保留）。 |
 | [weflow-cli](https://github.com/zhuobichen/weflow-cli) | 本地优先的微信数据工具：聊天记录、公众号日报、个人知识库与 MCP。 |
-| [pilgrim-intel](https://github.com/zhuobichen/pilgrim-intel) | 统一 AI 情报聚合系统：多信源抓取、AI 摘要与 MCP 可查询。 |
-| [zhaowen-claudemod](https://github.com/zhuobichen/zhaowen-claudemod) · [zhaowen-codexplugin](https://github.com/zhuobichen/zhaowen-codexplugin) | Claude Code / Codex 插件市场（skill + hooks + MCP 工具）。 |
-| [MathModeling-Agent](https://github.com/zhuobichen/MathModeling-Agent) | 数学建模竞赛数据分析题全流程自动化系统（多 Agent 流水线）。 |
-| [PPT_Control](https://github.com/zhuobichen/PPT_Control) | 基于 Markdown 模板与提示词的 PPT 自动化组装工作台。 |
-| [digital-humanities-narrative](https://github.com/zhuobichen/digital-humanities-narrative) | 数字人文叙事 AI 分析引擎：人物关系网络与叙事生成（CLI + Web）。 |
-| [Ember](https://github.com/zhuobichen/Ember) | 从聊天记录中用 AI 生成人生纪念碑的数字悼亡工具。 |
-| [ai-job-command-center](https://github.com/zhuobichen/ai-job-command-center) | AI 驱动的本地求职助手（面向中国招聘市场）。 |
-| [qchat-cli](https://github.com/zhuobichen/qchat-cli) · [server_manager](https://github.com/zhuobichen/server_manager) | 轻量 CLI 小工具。 |
+| [zhaowen-skill](https://github.com/zhuobichen/zhaowen-skill) | 可复用 Skill 集合：文档转换、公众号操作、视频分析、科研工具等。 |
 
-### Atmospheric Science
+### 应用
+
+| Project | Description |
+| --- | --- |
+| [AndroidApps](https://github.com/zhuobichen/AndroidApps) | MapMate（小德地图）：骑行导航助手，集成高德地图与 DeepSeek Agent。 |
+
+### 大气科学
 
 | Project | Description |
 | --- | --- |
@@ -78,6 +76,5 @@
 ## 🧭 Code Observatory
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhuobichen&theme=github_dark" alt="GitHub profile summary" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhuobichen&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
-
