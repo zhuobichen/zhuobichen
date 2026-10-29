@@ -39,7 +39,6 @@
 
 ## 🔗 Social accounts
 
-- 🌐 Homepage: [zhaowen.art](https://zhaowen.art)
 - 📧 Email: [1473517806@qq.com](mailto:1473517806@qq.com)
 
 ## 🛠️ Tech Stack
