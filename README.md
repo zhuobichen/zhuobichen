@@ -28,7 +28,6 @@
 - 🔭 正在构建 **本地优先的 AI 工具、多 Agent 系统与 MCP 服务**
 - 🌫️ 长期研究 **空气质量监测-模型数据融合、WRF-CMAQ 与健康效益评估**
 - 🧭 关注 **可复用、可验证、可自动化** 的工具与研究流程
-- 📍 Guangdong, China
 
 > I build practical systems at the intersection of **AI engineering** and **atmospheric science**.
 
