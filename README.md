@@ -23,13 +23,13 @@
 
 ## 👋 About Me
 
-你好，我是 Zhao Wen，主要在 AI 工程与大气环境科研之间工作，也喜欢文学、游戏、骑行、跑步和到处闲逛。
+你好，我是 Zhao Wen（朝闻）。主线是 **Agent 应用工程** —— 把微信、QQ、公众号、文献这些真实数据，变成 Agent 能读、能查、能自动化的本地工作流，再通过 MCP 接进日常工具；另一条线是 **大气环境科研**（空气质量监测-模型数据融合、WRF-CMAQ）。业余喜欢文学、游戏、骑行、跑步，和到处闲逛。
 
 - 🔭 正在构建 **本地优先的 AI 工具、多 Agent 系统与 MCP 服务**
 - 🌫️ 长期研究 **空气质量监测-模型数据融合、WRF-CMAQ 与健康效益评估**
 - 🧭 关注 **可复用、可验证、可自动化** 的工具与研究流程
 
-> I build practical systems at the intersection of **AI engineering** and **atmospheric science**.
+> I build **agentic applications** that turn personal data into local, automatable workflows — and work on atmospheric data fusion on the side.
 
 ## 🔗 Social accounts
 
